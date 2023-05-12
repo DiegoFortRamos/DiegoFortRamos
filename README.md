@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 Atualmente estou estudando Kotlin.<br>📚 Trabalho como Analista de Sistemas.</p>
+<p align="left">📚 Atualmente estou estudando Java.<br>📚 Trabalho como Analista de Sistemas.</p>
 
 ###
 
