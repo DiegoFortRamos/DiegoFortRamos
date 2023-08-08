@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Atualmente trabalho como Analista de Sistema(Estágio).<br>🌱 Estou estudando Java, SpringBoot, Sql e Git.<br>💬 Estudando para me tornar um desenvolvedor Java.
+🔭 Atualmente trabalho como Analista de Sistema(Estágio).<br>🌱 Estou estudando Java, SpringBoot, Sql e Git.<br>💬 Estudando desenvolvimento Back-End
 
 
 ## 🌐 Socials:
