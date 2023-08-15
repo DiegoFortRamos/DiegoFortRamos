@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Atualmente trabalho como Analista de Sistema(Estágio).<br>🌱 Estou estudando Go, Java, Spring Boot, Sql e Git.<br>💬 Estudando desenvolvimento Back-End
+🔭 Atualmente trabalho como Analista de Sistema(Estágio).<br>🌱 Estou estudando Android, Java, Spring Boot, Sql e Git.<br>💬 Estudando desenvolvimento Back-End
 
 
 ## 🌐 Socials:
