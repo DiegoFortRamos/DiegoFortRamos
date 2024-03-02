@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Analista de sistema junior<br>🌱 Estudando desenvolvimento mobile <br>
+🔭 Analista de sistema junior<br>🌱 Estudando desenvolvimento Front-End <br>
 
 
 ## 🌐 Socials:
