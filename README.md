@@ -1,6 +1,7 @@
 # 💫 About Me:
 Olá! Eu sou um Analista de Sistemas jr. Atualmente, estou me aprofundando no desenvolvimento back-end utilizando C#. Tenho experiência em com SQL e T-SQL, mas estou em constante aprendizado e evolução para me tornar um desenvolvedor back-end altamente capacitado.
 
+Email: Diego.ramos.fortunato@outlook.com
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/diego-ramos-683798207/) 
